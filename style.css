@@ -13,7 +13,7 @@ html, body{
     height: 40%;
     background: rgb(130, 217, 252);
     animation: skyColor 10s linear forwards alternate infinite,
-                    skyColor 10s 12s linear reverse ;
+                    skyColor 10s 10s linear reverse ;
 }
 
 
